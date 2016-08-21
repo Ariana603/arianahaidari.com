@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://example.com/</link>
+    <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 20 Aug 2016 22:25:13 -0400</pubDate>
+    <lastBuildDate>Sat, 20 Aug 2016 22:25:13 -0400</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Food for thought</title>
+        <description>&lt;p&gt;The back-to-school buzz in is the air, and with it comes both excitement and familiar challenges. You know how important wholesome, filling food is for your little one to do well in school, but packing lunch can sometimes feel like a daunting task. Where to start? In 2011, the US Department of Agriculture released the MyPlate graphic to replace the Food Pyramid. Instead of visualizing the Food Pyramid, individuals can aim to simply make their plate look like the MyPlate graphic at each meal. A balanced meal should be about 25% (1/4) grains or starchy vegetables (think potatoes or corn), and 25% lean protein, like tuna fish, yogurt, peanut butter, or a low-fat, low-sodium, deli meat, such as all-breast turkey. The remaining 50% of the meal should be fruits and vegetables. Sound tricky? Packing MyPlate into your child’s lunchbox can be easier than it sounds.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Aug 2016 21:51:38 -0400</pubDate>
+        <link>http://example.com/nutrition/college/quick/meal/2016/08/20/food-for-thought.html</link>
+        <guid isPermaLink="true">http://example.com/nutrition/college/quick/meal/2016/08/20/food-for-thought.html</guid>
+        
+        
+        <category>nutrition</category>
+        
+        <category>college</category>
+        
+        <category>quick</category>
+        
+        <category>meal</category>
+        
+      </item>
+    
+      <item>
+        <title>Spinach salads</title>
+        <description>&lt;p&gt;Spinach and strawberry salad, black bean quesadillas, and mustard-crusted salmon are among more than 20 dishes appearing in a recipe booklet prepared by a group of University of Delaware students for those with limited mobility and disabilities.&lt;/p&gt;
+
+&lt;p&gt;The booklet — which includes healthy eating tips as well as recipes for snacks, entrees, desserts, and side dishes — was a project of the Yes U Can Nutrition Extension at UD, led by dietetics students Taylor Evans and Elizabeth Smith.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Aug 2016 21:51:38 -0400</pubDate>
+        <link>http://example.com/nutrition/college/quick/meal/2016/08/20/spinach.html</link>
+        <guid isPermaLink="true">http://example.com/nutrition/college/quick/meal/2016/08/20/spinach.html</guid>
+        
+        
+        <category>nutrition</category>
+        
+        <category>college</category>
+        
+        <category>quick</category>
+        
+        <category>meal</category>
+        
+      </item>
+    
+  </channel>
+</rss>
